@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · Automation & Internal Tools · AI/LLM Builder**
 
-3 years shipping production systems — from AI chatbots handling 500+ daily interactions to workflow automations saving clients 20+ hours a week. Currently building an AI-powered healthcare system and going deep on LLMs.
+3 years shipping production systems - from AI chatbots handling 500+ daily interactions to workflow automations saving clients 20+ hours a week. Currently building an AI-powered healthcare system and going deep on LLMs.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ishaan--k.in-000?style=for-the-badge)](https://ishaan-k.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-kashyap-083a79237/)
