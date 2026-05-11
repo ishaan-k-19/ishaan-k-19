@@ -2,9 +2,9 @@
 
 # Hey, I'm Ishaan 👋
 
-**Full-Stack Developer · AI Enthusiast · Builder of Things That Ship**
+**Full-Stack Developer · Automation & Internal Tools · AI/LLM Builder**
 
-I turn caffeine into production-ready code. Currently crafting digital experiences with modern web tech and exploring the intersection of AI and software engineering.
+3 years shipping production systems — from AI chatbots handling 500+ daily interactions to workflow automations saving clients 20+ hours a week. Currently building an AI-powered healthcare system and going deep on LLMs.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ishaan--k.in-000?style=for-the-badge)](https://ishaan-k.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishaan-kashyap-083a79237/)
@@ -18,9 +18,11 @@ I turn caffeine into production-ready code. Currently crafting digital experienc
 
 ```yaml
 location: Winnipeg, MB 🇨🇦
-focus: Full-Stack Development & AI/ML
-currently_building: Custom CRM platforms, AI-powered tools
-learning: React Native, Advanced ML pipelines
+role: Full-Stack Developer @ Webever Technologies Inc.
+focus: Internal Tools, Workflow Automation & AI/LLM Systems
+currently_building: AI-powered Healthcare System 🏥
+learning: Large Language Models, LangChain, AI Architecture
+education: B.Sc. Applied Computer Science — University of Winnipeg
 open_to: Collaboration on ambitious projects
 ```
 
@@ -31,7 +33,18 @@ open_to: Collaboration on ambitious projects
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=flat-square&logo=google&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **Frontend**
 
@@ -39,23 +52,31 @@ open_to: Collaboration on ambitious projects
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radix-ui&logoColor=white)
 
 **Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Automation**
+
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6C37?style=flat-square&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -64,9 +85,10 @@ open_to: Collaboration on ambitious projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **ZeppMail** | AI-powered email security platform | Next.js · Python · TensorFlow |
-| **ConvoCube** | Cross-platform real-time chat app | React Native · Socket.io · MongoDB |
-| **EmailShield** | Email bomb detection with ML backend | FastAPI · Python · BERT |
+| **ZeppMail** | AI email security platform — 3 custom ML models, Gmail & Microsoft Graph OAuth, 92% precision spam classifier, 99.9% uptime | Next.js · TypeScript · Python · TensorFlow · BERT · Docker · PostgreSQL |
+| **AIVideoSummarizer** | LLM-powered tool that condenses 3hrs of video into summaries in under 3 min, 40% faster than baseline | React · Python · Flask · OpenAI · Whisper · BART |
+| **ConvoCube** | Cross-platform real-time chat app serving 60+ active users at sub-100ms latency | React Native · Node.js · Express · WebSockets · MongoDB |
+| **GetMeACoffee** | Creator-support platform with multi-provider OAuth & Stripe payments, 1,000+ test transactions with zero failures | Next.js · MongoDB · Stripe · NextAuth |
 
 ---
 
